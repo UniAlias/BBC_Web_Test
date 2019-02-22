@@ -51,6 +51,7 @@
 #articleContainer {
   margin-bottom: 10px;
   overflow: scroll;
+  text-align: center;
 }
 
 #articleDiv {
@@ -103,4 +104,17 @@
 
 #nextButton {
   display: inline;
+}
+
+/* This will be for the ratings page that gets created */
+#articleHeadings {
+  height: auto;
+}
+
+#ratingScores {
+  height auto;
+}
+
+#formRank {
+  margin-top: 20px;
 }
